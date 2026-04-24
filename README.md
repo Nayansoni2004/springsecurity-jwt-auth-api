@@ -175,7 +175,7 @@ Authorization: Bearer <JWT_TOKEN>
 ## Author
 
 **Nayan**
-Aspiring Backend Developer 🚀
+Aspiring Backend Developer
 
 ---
 
